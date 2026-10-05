@@ -1,4 +1,4 @@
-GitHub Pull Request Demo
-Version 1.0
+GitHub Pull Request Demo.
+Version 2.0
 This change was added via a Pull Request.
-This change is for updating Pull Request
+This change is for updating Pull Request.
